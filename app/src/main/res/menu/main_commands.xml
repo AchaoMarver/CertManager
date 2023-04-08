@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:yourapp="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_action_search" android:id="@+id/action_search"
+        android:title="@string/examine_site_certificate"
+        yourapp:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_action_collection" android:id="@+id/action_install_from_sd"
+        android:title="@string/import_from_sd_card"
+        yourapp:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_action_download" android:id="@+id/action_install_from_web"
+        android:title="@string/import_from_website"
+        yourapp:showAsAction="ifRoom" />
+    <item android:icon="@drawable/ic_action_refresh" android:id="@+id/action_settings"
+        android:title="@string/refreshList"
+        yourapp:showAsAction="ifRoom" />
+</menu>

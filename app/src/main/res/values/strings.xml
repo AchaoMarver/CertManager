@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CertManager</string>
+    <string name="refreshList">刷新列表</string>
+    <string name="import_from_website">网站导入</string>
+    <string name="import_from_sd_card">sdcard存储导入</string>
+    <string name="examine_site_certificate">检查证书</string>
+    <string name="action_refresh">刷新</string>
+</resources>
